@@ -7,3 +7,9 @@ Results
 -
 ![](https://github.com/junjH/light-weight-depth-estimation/raw/master/figs/results.png)
 ![](https://github.com/junjH/light-weight-depth-estimation/raw/master/figs/visualization.png)
+
+
+Dependencies
+-
++ python 3.6<br>
++ Pytorch 1.7.1<br>
