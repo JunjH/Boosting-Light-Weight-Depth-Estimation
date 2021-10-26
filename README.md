@@ -1,8 +1,6 @@
 # light-weight-depth-estimation
 <br>
-
 Junjie Hu, Chenyou Fan, Hualie Jiang, Xiyue Guo, Yuan Gao, Xiangyong Lu, Tin Lun Lam https://arxiv.org/abs/2105.06143
-
 
 Introduction
 -
