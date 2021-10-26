@@ -28,7 +28,7 @@ We found that:
 Results
 -
 <p align="center">
-	<img src="figs/results.png" alt="photo not available" width="80%" height="80%">
+	<img src="figs/results.png" alt="photo not available"">
 </p>
 
 Dependencies
