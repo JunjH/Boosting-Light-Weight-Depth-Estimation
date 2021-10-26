@@ -39,13 +39,13 @@ Dependencies
 
 Download
 -
-Download the NYU-v2 dataset: [NYU-v2 dataset](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) <br>
-
-Download the trained networks for depth estimation: [Depth estimation networks](https://drive.google.com/file/d/1yr5S5FIheL1mUfBzVJ8KqcIq9JP-jd4z/view?usp=sharing) <br>
++ Download the NYU-v2 dataset: [NYU-v2 dataset](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) <br>
++ Download the trained networks for depth estimation: [Depth estimation networks](https://drive.google.com/file/d/1yr5S5FIheL1mUfBzVJ8KqcIq9JP-jd4z/view?usp=sharing) <br>
 
 Evaluation
 -
- python test.py<br>
+Get results on the NYU-v2 test set by simply running test.py 							  
++ python test.py<br>
 
 Citation
 -
