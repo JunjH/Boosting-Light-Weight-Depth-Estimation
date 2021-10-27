@@ -9,7 +9,7 @@ Introduction
 This repo provides trained models and evaluation code for the light weight model for depth estimation. 
 
 <p align="left">
- <img src="figs/para-accu.png" alt="photo not available" width="50%" height="50%">
+ <img src="figs/para-accu.png" alt="photo not available" width="55%" height="55%">
 </p>
 
 We aim to enable depth estimation to be both computationally efficient and accurate.
