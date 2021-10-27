@@ -1,6 +1,8 @@
 # light-weight-depth-estimation
 <br>
-Junjie Hu, Chenyou Fan, Hualie Jiang, Xiyue Guo, Yuan Gao, Xiangyong Lu, Tin Lun Lam https://arxiv.org/abs/2105.06143
+Boosting Light-Weight Depth Estimation Via Knowledge Distillation, https://arxiv.org/abs/2105.06143 <br>
+
+Junjie Hu, Chenyou Fan, Hualie Jiang, Xiyue Guo, Yuan Gao, Xiangyong Lu, Tin Lun Lam 
 
 Introduction
 -
@@ -32,7 +34,7 @@ Results
 Dependencies
 -
 + python 3.6<br>
-+ Pytorch 1.7.1<br>
++ pytorch 1.7.1<br>
 
 
 Download
