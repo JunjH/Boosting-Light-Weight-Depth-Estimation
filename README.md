@@ -1,4 +1,4 @@
-# light-weight-depth-estimation
+# Boosting Light-Weight Depth Estimation Via Knowledge Distillation
 <br>
 Boosting Light-Weight Depth Estimation Via Knowledge Distillation, https://arxiv.org/abs/2105.06143 <br>
 
