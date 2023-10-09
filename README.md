@@ -50,10 +50,11 @@ Get results on the NYU-v2 test set by simply running test.py
 Citation
 -
 ```
-  @article{hu2021boosting,
-      title={Boosting Light-Weight Depth Estimation Via Knowledge Distillation},
-      author={Hu, Junjie and Fan, Chenyou and Jiang, Hualie and Guo, Xiyue and Gao, Yuan and Lu, Xiangyong and Lam, Tin Lun},
-      journal={arXiv preprint arXiv:2105.06143},
-      year={2021}
-  }
+@inproceedings{hu2021boosting,
+  title={Boosting Light-Weight Depth Estimation Via Knowledge Distillation},
+  author={Hu, Junjie and Fan, Chenyou and Jiang, Hualie and Guo, Xiyue and Gao, Yuan and Lu, Xiangyong and Lam, Tin Lun},
+   booktitle={International Conference on Knowledge Science, Engineering and Management},
+  year={2023},
+ pages={27--39},
+}
  ``` 
